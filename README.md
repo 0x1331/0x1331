@@ -1,7 +1,1 @@
-<br clear="both">
-
-<div align="center">
-  <img height="300" width="600" src="https://i.makeagif.com/media/11-09-2024/tehD2G.gif"  />
-</div>
-
-###
+![Image](https://github.com/user-attachments/assets/f56ef9cb-2301-44c2-bad1-00fbbfa4cd0a)
