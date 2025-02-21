@@ -1,8 +1,6 @@
-<br clear="both">
 
-<div align="center">
-  <img height="300" width="600" src="![Image](https://github.com/user-attachments/assets/f550a1f3-83e6-4166-8a87-14a12a1ecafa)" />
-</div>
+
+![cyberpunk_2077_relic_biochip_info_sheet_art_by_digitalsamurai2077_devhf1l-fullview](https://github.com/user-attachments/assets/14ad6969-38b5-4804-80b1-93554ec0be09)
 
 ####
 
