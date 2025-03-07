@@ -31,4 +31,4 @@ I am an aspiring cybersecurity specialist with a background in artificial intell
 
 <b>My GitHub Stats</b>
 
-<a href="http://www.github.com/network222"><img src="https://github-readme-stats.vercel.app/api?username=network222&show_icons=true&hide=&count_private=true&title_color=6366f1&text_color=ffffff&icon_color=ffffff&bg_color=1c1917&hide_border=true&show_icons=true" alt="network222's GitHub stats" /></a>
+<a href="http://www.github.com/0x1331"><img src="https://github-readme-stats.vercel.app/api?username=0x1331&show_icons=true&hide=&count_private=true&title_color=6366f1&text_color=ffffff&icon_color=ffffff&bg_color=1c1917&hide_border=true&show_icons=true" alt="0x1331's GitHub stats" /></a>
