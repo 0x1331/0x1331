@@ -12,7 +12,7 @@ Hi 👋 My name is Omar
 
 I am an aspiring cybersecurity specialist with a background in AI and software development. My interest in hacking began in childhood, and I have been exploring various fields since then. However, I have found a particular interest in cybersecurity, and I am currently studying Computer Science at ASOIU University.<br><br>📕 I am committed to continuous learning and knowledge development.<br>⚡ In addition to my studies, I am developing my own start-up projects.
 
-* 🚀  I'm currently working on [Lastway AI](http://www.instagram.com/lastway.ai?igsh=czEzOGZmeHV2M245)
+* 🚀  I'm currently working on Elyze AI (my own LLM)
 * 🧠  I'm learning Advanced Cybersecurity & Penetration Testing, Web Development, AI Development
 
 ### Skills
